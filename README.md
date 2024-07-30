@@ -1,6 +1,6 @@
 ## About me 👋
 
-<!--
+
 **dm206/dm206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me:
 - ⚡ Fun fact: I climbed Mount Rainier, and cycled across Washinton state in 4 days
--->
+
